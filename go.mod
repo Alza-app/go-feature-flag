@@ -1,4 +1,4 @@
-module github.com/thomaspoignant/go-feature-flag
+module github.com/Alza-app/go-feature-flag
 
 go 1.21
 
